@@ -42,4 +42,4 @@ Here goes your json object definition
 
 ====
 
-[Googleリンク](https://www.google.co.jp/)"ツールチップ"
+[Googleリンク](https://www.google.co.jp/)
